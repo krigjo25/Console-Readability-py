@@ -2,10 +2,10 @@
 An application to calculate the Average Reading Rate 
 using the by using the formula of Coleman Liau.
 
-The application was implemented as a CS50x assignment.<br>
+The application was implemented as a xCS50 assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
 
-A demo of the application can be watched at [xCS50: Problem set 6](https://cs50.harvard.edu/x/2024/psets/6/readability/)
+A demo of the application can be watched at [xCS50 Problem set 6: Readability](https://cs50.harvard.edu/x/2024/psets/6/readability/)
 
 ## Installation
 1. Clone the repository:
